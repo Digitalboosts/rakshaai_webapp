@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#f8fafc"/>
+  <!-- Graph Axes -->
+  <line x1="100" y1="500" x2="700" y2="500" stroke="#94a3b8" stroke-width="4"/>
+  <line x1="100" y1="500" x2="100" y2="100" stroke="#94a3b8" stroke-width="4"/>
+  
+  <!-- Bars -->
+  <!-- 2020 -->
+  <rect x="150" y="400" width="80" height="100" fill="#bae6fd" rx="4"/>
+  <text x="190" y="530" font-family="system-ui, sans-serif" font-size="16" fill="#64748b" text-anchor="middle">2020</text>
+  <!-- 2021 -->
+  <rect x="270" y="320" width="80" height="180" fill="#7dd3fc" rx="4"/>
+  <text x="310" y="530" font-family="system-ui, sans-serif" font-size="16" fill="#64748b" text-anchor="middle">2021</text>
+  <!-- 2022 -->
+  <rect x="390" y="240" width="80" height="260" fill="#38bdf8" rx="4"/>
+  <text x="430" y="530" font-family="system-ui, sans-serif" font-size="16" fill="#64748b" text-anchor="middle">2022</text>
+  <!-- 2023 -->
+  <rect x="510" y="160" width="80" height="340" fill="#0284c7" rx="4"/>
+  <text x="550" y="530" font-family="system-ui, sans-serif" font-size="16" fill="#64748b" text-anchor="middle">2023</text>
+  <!-- 2024 -->
+  <rect x="630" y="80" width="80" height="420" fill="#0369a1" rx="4"/>
+  <text x="670" y="530" font-family="system-ui, sans-serif" font-size="16" fill="#64748b" text-anchor="middle">2024</text>
+
+  <!-- Title -->
+  <text x="400" y="60" font-family="system-ui, sans-serif" font-size="28" font-weight="bold" fill="#0f172a" text-anchor="middle">Rise in Phone Fraud Cases in India</text>
+</svg>

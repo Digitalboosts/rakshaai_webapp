@@ -1,0 +1,28 @@
+// User-friendly definitions for tooltips
+export const definitions = {
+  businessName: "The registered business name associated with this website",
+  completeDomain: "The full web address including all parts like www.example.com",
+  scheme: "The protocol used - HTTPS is secure, HTTP is not secure",
+  subdomain: "The part before the main domain, like 'www' in www.example.com",
+  domain: "The main part of the web address, like 'google' in google.com",
+  tld: "The extension at the end like .com, .org, .net - tells you the domain type",
+  port: "The specific gateway used to connect to the website (usually hidden)",
+  domainAge: "How long this domain has existed - older domains are often more trustworthy",
+  created: "When this domain was first registered and became active",
+  updated: "The last time the domain registration information was changed",
+  expires: "When the domain registration expires - if not renewed, website goes offline",
+  registrar: "The company that manages this domain registration",
+  privacyEnabled: "Whether the domain owner's contact information is hidden from public view",
+  ipAddress: "The unique address where this website's server is located",
+  ipUsage: "What type of service this server IP address is typically used for",
+  abuseScore: "How often this server has been reported for suspicious activity (0 is best)",
+  sslStatus: "Whether your connection to this website is encrypted and secure",
+  selfSigned: "Whether the security certificate was issued by the website itself (less trustworthy)",
+  issuerCountry: "The country where the security certificate was issued",
+  issuerOrg: "The organization that verified and issued the security certificate",
+  commonName: "The domain name this security certificate is valid for",
+  daysUntilExpiry: "How many days until the security certificate expires",
+  sanDomains: "All the domain names this security certificate covers and protects",
+  publishingDate: "When this website was first published or launched online",
+  publishingYear: "The year this website first went live on the internet"
+};

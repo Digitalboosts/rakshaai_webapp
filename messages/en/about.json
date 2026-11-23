@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "title": "About RakshaAI: India's Free Scam Detection Platform",
+    "description": "RakshaAI is India's free scam detection tool for websites, UPI IDs, and phone numbers. We verify businesses with GST and Aadhaar for a Raksha Trust Badge.",
+    "openGraph": {
+      "title": "About RakshaAI  Fraud Detection & Business Verification for India",
+      "description": "Free scam checker for India. Check websites, UPI IDs, phone numbers for fraud. Get your business verified with a Raksha Trust Badge. Built for India."
+    }
+  },
+  "hero": {
+    "badge": "Free for All Indians",
+    "title": "Built for",
+    "titleHighlight": " Safe India, Better India",
+    "subtitle": "Every day, thousands of Indians lose money to online scams. We're here to change that  one verified business and one protected user at a time, completely free.",
+    "ctaPrimary": "Try RakshaAI",
+    "ctaSecondary": "Verify Your Business"
+  },
+  "stats": [
+    {
+      "number": "100%",
+      "label": "Free Service"
+    },
+    {
+      "number": "100%",
+      "label": "India-Focused"
+    },
+    {
+      "number": "{{supportAvailability}}",
+      "label": "Always Available"
+    },
+    {
+      "number": "0",
+      "label": "Hidden Charges"
+    }
+  ],
+  "mission": {
+    "title": "Why We Exist",
+    "paragraph1": "Online fraud is growing in India. Fake shopping sites, phishing WhatsApp messages, fraudulent payment links  crores of rupees are being stolen from hardworking Indians every single day. And legitimate businesses are losing customers because buyers can't tell who to trust.",
+    "paragraph2": "But here's the thing: ",
+    "paragraph2Highlight": "protection shouldn't cost money, and trust shouldn't be invisible.",
+    "paragraph3": "We built RakshaAI for students checking hostel booking sites, parents verifying online stores, senior citizens worried about bank SMS links  and for honest businesses that deserve to prove their legitimacy. ",
+    "paragraph3Highlight": "This is for you."
+  },
+  "features": {
+    "title": "What Makes Us Different",
+    "subtitle": "We're not here to make money from your fear. We're here to protect users and verify businesses  keeping India safer and more trustworthy.",
+    "items": [
+      {
+        "title": "Free Scam Detection for Everyone",
+        "description": "Check any website, UPI ID, or phone number for fraud  free forever. Whether you're a student, parent, or senior citizen, safety is just one search away."
+      },
+      {
+        "title": "Business Trust Verification",
+        "description": "Businesses can get GST and Aadhaar verified, earn a Raksha Trust Badge, and display their certificate to customers  for just ₹299/month."
+      },
+      {
+        "title": "Your Privacy Matters",
+        "description": "We do not sell your data or associate scam check queries with your identity. Check queries are anonymised. We collect only the minimum data needed to operate the service."
+      },
+      {
+        "title": "AI-Assisted Detection",
+        "description": "Our system checks public threat databases and community reports instantly. From fake shopping sites to phishing links  results in under 5 seconds."
+      },
+      {
+        "title": "Community Powered",
+        "description": "When you report a scam, you help protect other Indians too. Every report strengthens our database and makes India safer."
+      },
+      {
+        "title": "No Tech Knowledge Needed",
+        "description": "Simple, clear results. If a link is dangerous, we'll tell you exactly why in plain language anyone can understand."
+      }
+    ]
+  },
+  "promise": {
+    "title": "Our Promise to India",
+    "items": [
+      {
+        "title": "Zero Cost, Forever",
+        "description": "No \"free trial\" tricks. No premium plans. This service will be free forever for every single Indian. That's our commitment."
+      },
+      {
+        "title": "Your Privacy Matters",
+        "description": "We do not sell your data. Scam check queries are anonymised and not associated with your identity. See our Privacy Policy for full details."
+      },
+      {
+        "title": "Transparent & Honest",
+        "description": "If a website is risky, we'll tell you why. If our system is unsure, we'll say so. No hidden agendas. Just honest answers."
+      }
+    ]
+  },
+  "businessSection": {
+    "title": "For Businesses: Get Your Raksha Trust Badge",
+    "subtitle": "A verified RakshaAI badge tells every potential customer that your business has been GST-checked, Aadhaar-verified, and document-reviewed. Turn trust into revenue.",
+    "badges": [
+      {
+        "name": "Raksha Trusted",
+        "description": "Full verification: GST + Aadhaar KYC + Document review complete",
+        "icon": "🛡️"
+      },
+      {
+        "name": "Raksha Verified",
+        "description": "GST registration and identity confirmed",
+        "icon": "✅"
+      },
+      {
+        "name": "Raksha Registered",
+        "description": "Business registered, review in progress",
+        "icon": "📋"
+      }
+    ],
+    "process": [
+      "Submit your business URL and details",
+      "Complete GST verification (automated)",
+      "Aadhaar KYC via OTP (2 minutes)",
+      "Upload business documents",
+      "Get verified within 48 hours"
+    ],
+    "pricing": "₹299/month  flat subscription, cancel anytime",
+    "cta": "Start Business Verification",
+    "ctaLink": "/business-onboarding"
+  },
+  "team": {
+    "title": "About Ehatech Services Pvt. Ltd.",
+    "subtitle": "RakshaAI is a private platform operated by Ehatech Services Pvt. Ltd., a DPIIT-recognized startup based in Pune, India. We are not affiliated with, endorsed by, or representing the Government of India, any law enforcement agency, RBI, NPCI, or TRAI.",
+    "company": "Ehatech Services Pvt. Ltd.",
+    "address": "The Platinum Towers, Office No. 27, Old Mundhwa Road, Kharadi, Pune 411014",
+    "email": "support@rakshaai.co",
+    "helpline": "Cybercrime Helpline: 1930",
+    "founded": "2024",
+    "mission": "Our mission is to make India's digital economy safer  for consumers who need to verify before they trust, and for businesses that deserve to prove they're legitimate."
+  },
+  "cta": {
+    "title": "Let's Build a Safer India Together",
+    "subtitle": "Protect yourself and your family from online fraud  free. And if you're a business, get verified today  your customers are checking.",
+    "ctaPrimary": "Check a Link Now",
+    "ctaSecondary": "Verify My Business"
+  },
+  "navbar": {
+    "logo": {
+      "name": "RakshaAI",
+      "tagline": "SAFER INDIA"
+    },
+    "navigation": {
+      "home": "Home",
+      "about": "About",
+      "blog": "Blog",
+      "faq": "FAQ",
+      "contact": "Contact"
+    },
+    "actions": {
+      "reportScam": "Report a Scam"
+    }
+  },
+  "footer": {
+    "logo": {
+      "name": "RAKSHAAI",
+      "tagline": "SAFER INDIA"
+    },
+    "description": "Advanced AI-powered scam detection to protect you from online fraud, phishing, and suspicious activities. Stay safe in the digital world.",
+    "sections": {
+      "quickLinks": {
+        "title": "Quick Links",
+        "home": "Home",
+        "about": "About Us",
+        "faq": "FAQ",
+        "contact": "Contact"
+      },
+      "legal": {
+        "title": "Legal",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service"
+      }
+    },
+    "copyright": "© 2026 RakshaAI. All rights reserved. Built with ❤️ by Ehatech Pvt Ltd."
+  }
+}

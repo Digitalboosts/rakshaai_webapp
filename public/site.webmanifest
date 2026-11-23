@@ -1,0 +1,76 @@
+{
+  "name": "RakshaAI Scam Checker",
+  "short_name": "RakshaAI",
+  "description": "Free AI-powered scam detection for India. Check websites, UPI IDs, and phone numbers before you trust them.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["security", "utilities"],
+  "screenshots": [
+    {
+      "src": "/images/banner-1.png",
+      "sizes": "1280x800",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "RakshaAI  Check websites, UPI IDs, and phone numbers for scams"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Check a Website",
+      "short_name": "Website Check",
+      "description": "Check if a website is safe or a scam.",
+      "url": "/website-safety-checker",
+      "icons": [
+        {
+          "src": "/android-chrome-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Check a UPI ID",
+      "short_name": "UPI Check",
+      "description": "Check a UPI ID before sending money.",
+      "url": "/upi-id-checker",
+      "icons": [
+        {
+          "src": "/android-chrome-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Check a Phone Number",
+      "short_name": "Phone Check",
+      "description": "Check if a phone number has scam reports.",
+      "url": "/phone-number-checker",
+      "icons": [
+        {
+          "src": "/android-chrome-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}

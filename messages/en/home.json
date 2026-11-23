@@ -1,0 +1,635 @@
+{
+  "metadata": {
+    "title": "Website Safety Checker, Scam Detector & Fraud Intelligence",
+    "description": "RakshaAI combines AI trust and fraud intelligence with a free website scam checker, UPI fraud checker, phone number scam checker and phishing checker for India.",
+    "openGraph": {
+      "title": "Website Safety Checker, Scam Detector & Fraud Intelligence",
+      "description": "RakshaAI combines AI trust and fraud intelligence with a free website scam checker, UPI fraud checker, phone number scam checker and phishing checker for India."
+    }
+  },
+  "hero": {
+    "badge": "AI Trust & Scam Intelligence",
+    "title1": "AI Trust Intelligence",
+    "title2": "for the Internet",
+    "subtitle": "Know what to trust before you click, pay, upload or respond. RakshaAI analyzes websites, documents and digital signals to identify scams, impersonation and fraud risk, helping consumers and businesses make safer decisions in real time.",
+    "inputPlaceholder": "Enter website URL, UPI ID, or phone number to check for scams…",
+    "trustSignals": [
+      "Instant Results",
+      "Free with Secure Login",
+      "Hindi + English Support",
+      "🇮🇳 Built for India"
+    ],
+    "footer": "Free consumer checks • Secure login • Built for India"
+  },
+  "stats": [
+    {
+      "value": "Instant",
+      "label": "Results"
+    },
+    {
+      "value": "Free",
+      "label": "Always"
+    },
+    {
+      "value": "Secure",
+      "label": "User Login"
+    },
+    {
+      "value": "24/7",
+      "label": "Available"
+    }
+  ],
+  "features": {
+    "title": "Why We're Here for India",
+    "subtitle": "Every Indian deserves to feel safe online. No charges, no catches just genuine protection.",
+    "items": [
+      {
+        "title": "Instant Scam Detection",
+        "description": "Check any suspicious link before clicking. Protect yourself and your family from online fraud completely free."
+      },
+      {
+        "title": "Safe for Everyone",
+        "description": "Built for students, parents, small businesses, and every Indian. Simple, clear results in your language."
+      },
+      {
+        "title": "Real-Time Protection",
+        "description": "Our AI checks domain history, SSL certificates, and threat databases to keep you safe around the clock."
+      },
+      {
+        "title": "Community First",
+        "description": "Built by Indians, for Indians. No data selling, no hidden costs just genuine care for your safety."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "How Our Scam Detector Works",
+    "subtitle": "Simple, fast, and secure fraud detection in 3 easy steps",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Enter URL, UPI ID, or Phone Number",
+        "description": "Paste any suspicious website link, UPI ID you received, or phone number that contacted you. Our scam checker supports multiple formats including shortened URLs."
+      },
+      {
+        "step": "02",
+        "title": "AI-Powered Fraud Analysis",
+        "description": "Our AI analyzes domain signals, public blacklists, and community-submitted fraud reports  covering UPI fraud patterns, phishing links, fake e-commerce sites, and digital arrest scams."
+      },
+      {
+        "step": "03",
+        "title": "Get Instant Safety Report",
+        "description": "Receive a detailed trust score (0-10), risk analysis, and actionable prevention tips in Hindi or English. Know exactly if you're dealing with a scam."
+      }
+    ],
+    "cta": "🔍 Check For Scams Now"
+  },
+  "scamCategories": {
+    "title": "Types of Scams We Detect",
+    "subtitle": "Comprehensive fraud detection covering all major scam types in India  from UPI fraud to phishing links and digital arrest scams.",
+    "categories": [
+      {
+        "id": 1,
+        "title": "UPI Fraud Detection",
+        "amount": "Major fraud type",
+        "description": "Fake UPI collect requests and bank impersonation trick Indians into approving fraudulent payments. Common patterns include 'cashback refund' collect requests, fake payment screenshots, and QR code scams. RakshaAI checks UPI IDs against reported fraud databases so you know before you send."
+      },
+      {
+        "id": 2,
+        "title": "Digital Arrest Scams",
+        "amount": "High-value threat",
+        "description": "Fraudsters impersonate CBI, Narcotics Control Bureau, ED, or Supreme Court officials over video calls to 'digitally arrest' victims and extort 'bail fees'. These highly orchestrated scams have extracted thousands of crore from professionals, retirees, and students across India. Never engage  hang up and call the real agency's published number."
+      },
+      {
+        "id": 3,
+        "title": "Fake E-commerce Websites",
+        "amount": "Fastest growing",
+        "description": "Cloned shopping sites offer iPhones, electronics, and clothing at 60–80% discounts to harvest card details and advance payments. These sites mimic Flipkart, Amazon, and Myntra layouts and disappear after collecting orders. Always verify any unfamiliar shopping URL on RakshaAI before entering payment details."
+      },
+      {
+        "id": 4,
+        "title": "Investment & Trading Scams",
+        "amount": "Rapidly growing",
+        "description": "WhatsApp groups fronting SEBI analysts, fake stock trading apps promising guaranteed returns, and pig-butchering crypto platforms are among India's fastest-growing fraud types. Victims typically lose ₹10–50 lakh. Verify any investment platform at SEBI's official portal before depositing a single rupee."
+      },
+      {
+        "id": 5,
+        "title": "Task-Based Job Scams",
+        "amount": "WhatsApp epidemic",
+        "description": "Part-time job offers on WhatsApp promise ₹5,000–₹15,000 daily for liking YouTube videos or completing simple tasks. After victims earn small test payouts, they are pressured into depositing ₹10,000–₹2,00,000 for 'premium tasks' and never see the money again. These scams spread via Telegram and Instagram as well."
+      },
+      {
+        "id": 6,
+        "title": "Phishing & Fake Links",
+        "amount": "Most common",
+        "description": "Malicious links delivered via SMS, email, and WhatsApp impersonate IRCTC, banks, NHAI, and government portals to steal login credentials or install APK malware. A single click can give attackers access to your bank account. Paste any suspicious link into RakshaAI's website checker before opening it."
+      },
+      {
+        "id": 7,
+        "title": "Romance & Dating Scams",
+        "amount": "Growing threat",
+        "description": "Fraudsters spend weeks or months building emotional relationships on Facebook, Instagram, and matrimonial apps before requesting money for medical emergencies, visa fees, or investment opportunities. India reported a 68% rise in romance fraud cases in 2024. Always independently verify someone's identity before transferring any money."
+      },
+      {
+        "id": 8,
+        "title": "Fake Loan Apps",
+        "amount": "83% increase",
+        "description": "Unlicensed loan apps charge 200–500% effective annual interest, harvest your entire phone contact list on install, and blackmail defaulters by sending doctored images to family and colleagues. Verify any loan app against the RBI's registered NBFC list at rbi.org.in before applying."
+      },
+      {
+        "id": 9,
+        "title": "Phone & SMS Scams",
+        "amount": "Daily occurrences",
+        "description": "Calls impersonating TRAI, banks, UIDAI, courier companies, and government departments account for millions of fraud attempts daily. Common scripts include 'your SIM will be disconnected', 'a parcel with narcotics in your name', and 'your Aadhaar is linked to a crime'. Always hang up and verify through official channels  never act on an incoming call."
+      },
+      {
+        "id": 10,
+        "title": "Cryptocurrency Scams",
+        "amount": "High risk",
+        "description": "Fake crypto exchanges, Ponzi schemes disguised as DeFi staking platforms, and task-based 'crypto mining' apps promise 5–15% daily returns. Most are controlled from overseas and funds are unrecoverable once transferred. Report any suspicious crypto platform or wallet address to RakshaAI to protect other Indians."
+      }
+    ]
+  },
+  "whyDifferent": {
+    "title": "Why RakshaAI",
+    "subtitle": "An India-first, explainable intelligence layer designed to support trust decisions across products and workflows.",
+    "features": [
+      {
+        "icon": "🇮🇳",
+        "title": "India-First Intelligence",
+        "description": "RakshaAI is designed around the payment systems, communication channels, languages and fraud patterns Indian users encounter. This context helps explain risks such as UPI abuse, fake government portals, digital-arrest impersonation and local employment scams more meaningfully."
+      },
+      {
+        "icon": "🔎",
+        "title": "Multimodal Detection",
+        "description": "Fraud rarely stays inside one channel. RakshaAI currently brings website and document checks into one trust platform and is expanding toward suspicious messages and other digital surfaces, so related evidence can eventually be considered together."
+      },
+      {
+        "icon": "⚡",
+        "title": "Real-Time Risk Intelligence",
+        "description": "A blacklist can miss a newly created scam, while one technical warning can misclassify a legitimate service. RakshaAI combines the signals available at the time of a check with relevant context to support a more balanced, current assessment."
+      },
+      {
+        "icon": "💡",
+        "title": "Explainable Decisions",
+        "description": "Users and review teams need to understand why something appears risky. RakshaAI is designed to present contributing signals, limitations and practical next actions instead of returning an unexplained safe-or-scam verdict."
+      },
+      {
+        "icon": "🔌",
+        "title": "API-First Direction",
+        "description": "Trust intelligence is most useful when it appears inside the workflow where a decision is being made. RakshaAI is developing API access for approved business use cases, with integration scope and controls documented before broader availability."
+      },
+      {
+        "icon": "🔄",
+        "title": "Responsible Data Flywheel",
+        "description": "Reviewed reports and verified outcomes can reveal emerging patterns and gaps in existing detection. The objective is to improve future intelligence through better evidence and evaluation while applying moderation, privacy safeguards and testing before changes affect users."
+      }
+    ]
+  },
+  "comparisonTable": {
+    "title": "Comparison Table",
+    "subtitle": "See how RakshaAI compares to global security tools",
+    "features": [
+      {
+        "feature": "UPI Fraud Detection",
+        "rakshaai": "✅ Yes",
+        "globalTools": "❌ No"
+      },
+      {
+        "feature": "Hindi Language",
+        "rakshaai": "✅ Yes",
+        "globalTools": "❌ English Only"
+      },
+      {
+        "feature": "Digital Arrest Scams",
+        "rakshaai": "✅ Detected",
+        "globalTools": "❌ Not Covered"
+      },
+      {
+        "feature": "Phone Verification",
+        "rakshaai": "✅ Free",
+        "globalTools": "⚠️ Paid Only"
+      },
+      {
+        "feature": "Pricing",
+        "rakshaai": "✅ Free consumer checks",
+        "globalTools": "❌ $50-170/year"
+      }
+    ]
+  },
+  "businessVerification": {
+    "badge": "For Businesses",
+    "title": "Get Your Business Verified by RakshaAI",
+    "subtitle": "Build instant customer trust with a Raksha Trust Badge. When users check your URL on RakshaAI, they see your verified certificate  GST, Aadhaar KYC, and document-verified.",
+    "howItWorks": {
+      "title": "How Business Verification Works",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Submit Business Details",
+          "description": "Provide your business name, website URL, and contact details to start the verification process."
+        },
+        {
+          "step": "02",
+          "title": "GST & Aadhaar Verification",
+          "description": "Verify your GST registration and complete Aadhaar KYC for identity confirmation  fully digital, no office visit needed."
+        },
+        {
+          "step": "03",
+          "title": "Document Review",
+          "description": "Upload supporting business documents. Our team reviews and approves within 48 hours."
+        },
+        {
+          "step": "04",
+          "title": "Get Your Trust Badge",
+          "description": "Once approved, your business displays a Raksha Trust Certificate whenever anyone checks your URL  winning customer confidence instantly."
+        }
+      ]
+    },
+    "badges": [
+      {
+        "name": "Raksha Trusted",
+        "description": "Full GST + Aadhaar + Document verification complete",
+        "color": "green"
+      },
+      {
+        "name": "Raksha Verified",
+        "description": "GST registration and identity verified",
+        "color": "blue"
+      },
+      {
+        "name": "Raksha Registered",
+        "description": "Business details registered and under review",
+        "color": "yellow"
+      }
+    ],
+    "benefits": [
+      {
+        "icon": "🛡️",
+        "title": "Instant Customer Trust",
+        "description": "Customers see your verified badge before they transact  reducing drop-offs and building confidence."
+      },
+      {
+        "icon": "📈",
+        "title": "More Conversions",
+        "description": "Verified businesses report higher conversion rates as buyers feel safe paying verified merchants."
+      },
+      {
+        "icon": "🔍",
+        "title": "Appear Safe in Searches",
+        "description": "When users search your business on RakshaAI, your trust status appears prominently in the result."
+      },
+      {
+        "icon": "📄",
+        "title": "Digital Trust Certificate",
+        "description": "Display your RakshaAI verification certificate on your own website to boost credibility."
+      }
+    ],
+    "pricing": {
+      "title": "Simple, Transparent Pricing",
+      "price": "₹299",
+      "period": "/month",
+      "description": "One flat subscription. No hidden fees. Cancel anytime.",
+      "cta": "Verify My Business",
+      "ctaLink": "/business-onboarding"
+    },
+    "stats": [
+      {
+        "value": "48 hrs",
+        "label": "Avg Verification Time"
+      },
+      {
+        "value": "GST + Aadhaar",
+        "label": "Documents Verified"
+      },
+      {
+        "value": "₹299/mo",
+        "label": "Flat Subscription"
+      },
+      {
+        "value": "100%",
+        "label": "Digital Process"
+      }
+    ]
+  },
+  "scamAlerts": {
+    "title": "Latest Scam Alerts in India",
+    "subtitle": "Stay updated with recent fraud patterns and new scam tactics",
+    "alerts": [
+      {
+        "id": 1,
+        "title": "New QR Code Scam - Fake Electricity Bills",
+        "type": "urgent"
+      },
+      {
+        "id": 2,
+        "title": "Fake CBI Officers Demanding ₹5 Lakh",
+        "type": "warning"
+      },
+      {
+        "id": 3,
+        "title": "WhatsApp Stock Tips Scam - ₹50 Cr Stolen",
+        "type": "critical"
+      },
+      {
+        "id": 4,
+        "title": "\"Aadhaar Suspended\" Calls Targeting Seniors",
+        "type": "urgent"
+      }
+    ],
+    "subscribeWhatsApp": "Subscribe via WhatsApp",
+    "subscribeEmail": "Subscribe via Email"
+  },
+  "safetyTips": {
+    "title": "How to Stay Safe from Online Scams",
+    "subtitle": "Practical habits that reduce common online scam risks",
+    "tips": [
+      {
+        "icon": "🔐",
+        "title": "Never Share OTP",
+        "description": "Your OTP is a one-time password that authenticates only you. No legitimate bank, UPI app, UIDAI, or government department will ever call or message you asking for it. If someone asks for your OTP, it is always a scam  hang up immediately."
+      },
+      {
+        "icon": "⏰",
+        "title": "Don't Rush Decisions",
+        "description": "Scammers deliberately create panic and urgency  'your account will be blocked in 10 minutes', 'act now or face arrest'. Legitimate banks and government agencies never rush you into instant decisions. Take a breath, end the call, and verify independently."
+      },
+      {
+        "icon": "🔍",
+        "title": "Check Before Clicking",
+        "description": "Before clicking any link received via SMS, WhatsApp, or email, paste it into RakshaAI's free website checker at rakshaai.co. Phishing links often use subtle typos like 'amaz0n.in' or 'sbi-secure.net'. A 5-second check can save your savings."
+      },
+      {
+        "icon": "📞",
+        "title": "Verify Caller Identity",
+        "description": "If you get an unexpected call from your 'bank', 'police', or 'government agency', hang up and call back on the official number published on their website or the back of your card. Never use a number given by the caller  it could be a forwarded scam line."
+      },
+      {
+        "icon": "💰",
+        "title": "Money Only Goes Out (UPI rule)",
+        "description": "UPI collect requests always send money out of your account  you never receive money by approving one. Scammers send fake 'refund' or 'cashback' collect requests. Approve a collect request only when you are consciously paying someone you fully trust."
+      },
+      {
+        "icon": "🛡️",
+        "title": "Use Official Apps Only",
+        "description": "Download banking, UPI, and investment apps only from the Google Play Store or Apple App Store, and only from the official publisher listed by your bank. Fake apps harvested over 10 crore data records from Indian users in 2024 alone."
+      },
+      {
+        "icon": "👨‍👩‍👧",
+        "title": "Protect Family Members",
+        "description": "Elderly relatives and teenagers are the most targeted demographics for scam calls and fake job offers. Share the 1930 cybercrime helpline number with your family and teach them one rule: never share OTPs, PINs, or Aadhaar details over phone or WhatsApp."
+      },
+      {
+        "icon": "📱",
+        "title": "Report Suspicious Activity",
+        "description": "Reporting scams at RakshaAI, on 1930, or at cybercrime.gov.in protects thousands of other Indians who might encounter the same phone number, UPI ID, or website. Every report strengthens the shared intelligence network and makes future fraud harder to execute."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Let's Make India Safer, Together",
+    "subtitle": "Protect yourself, your family, and your community from online fraud. Free, secure, built for India.",
+    "button": "Check Any Link Now It's Free!"
+  },
+  "urlInput": {
+    "placeholder": "Paste a link, UPI ID, or phone number  we'll check it for you",
+    "buttonText": "Check Now",
+    "analyzing": "Analyzing...",
+    "description": "Log in securely and check before you click or pay",
+    "errors": {
+      "enterUrl": "Please enter a URL or text",
+      "generalError": "We're having trouble analyzing this website right now. Please try again in a moment.",
+      "noSlug": "We're having trouble analyzing this website right now. Please try again in a moment.",
+      "suggestionError": "We couldn't analyze this suggestion. Please try selecting a different option.",
+      "suggestionGeneralError": "We're having trouble analyzing this suggestion. Please try again or select a different option."
+    },
+    "suggestions": {
+      "title": "Did you mean one of these websites?",
+      "busyMessage": "Our system is temporarily busy due to high traffic. Please try again in a few moments."
+    }
+  },
+  "reviewCTA": {
+    "title": "Help the Community",
+    "description": "Your experiences matter! Share reviews about websites you've used to help others make informed decisions and stay safe online.",
+    "benefits": [
+      "Protect others from potential scams",
+      "Share legitimate business experiences",
+      "Build a trusted community database"
+    ],
+    "submitReview": {
+      "title": "Submit Your Review",
+      "description": "Quick and easy. Your feedback helps millions of users stay secure.",
+      "button": "Report a Scam",
+      "verification": "All reviews are verified & moderated"
+    },
+    "result": {
+      "title": "Share Your Experience",
+      "description": "Have you used {websiteUrl}? Help others by sharing your review.",
+      "stats": {
+        "reviewers": "Community reports",
+        "verified": "Verified & moderated"
+      },
+      "button": "Write a Review"
+    }
+  },
+  "navbar": {
+    "logo": {
+      "name": "RakshaAI",
+      "tagline": "SAFER INDIA"
+    },
+    "navigation": {
+      "home": "Home",
+      "about": "About",
+      "blog": "Blog",
+      "faq": "FAQ",
+      "contact": "Contact"
+    },
+    "actions": {
+      "reportScam": "Report a Scam"
+    }
+  },
+  "footer": {
+    "logo": {
+      "name": "RAKSHAAI",
+      "tagline": "SAFER INDIA"
+    },
+    "description": "RakshaAI is India's free AI-powered fraud detection and business verification platform. Check any website, UPI ID, or phone number for scams  and get your business verified with a Raksha Trust Badge. Built by Indians, for Indians.",
+    "sections": {
+      "quickLinks": {
+        "title": "Quick Links",
+        "home": "Home",
+        "howItWorks": "How It Works",
+        "reportScam": "Report Scam",
+        "blog": "Blog",
+        "faq": "FAQ",
+        "about": "About",
+        "contact": "Contact",
+        "businessVerification": "Business Verification",
+        "businessOnboarding": "Get Verified"
+      },
+      "scamCategories": {
+        "title": "Scam Categories",
+        "upi": "UPI Fraud",
+        "digitalArrest": "Digital Arrest",
+        "ecommerce": "E-commerce",
+        "investment": "Investment",
+        "phone": "Phone",
+        "phishing": "Phishing",
+        "romance": "Romance",
+        "crypto": "Crypto",
+        "loans": "Loans",
+        "jobs": "Jobs"
+      },
+      "resources": {
+        "title": "Resources",
+        "preventionTips": "Prevention Tips",
+        "latestAlerts": "Latest Alerts",
+        "safetyGuide": "Safety Guide (Hindi)",
+        "cybercrime": "Cybercrime 1930"
+      },
+      "contact": {
+        "title": "Contact",
+        "email": "support@rakshaai.co",
+        "availability": "Available 24/7"
+      }
+    },
+    "mission": "🇮🇳 Free consumer checks. Verification, APIs and trust infrastructure for businesses.",
+    "copyright": "© 2026 RakshaAI. All rights reserved. Built with ❤️ in India."
+  },
+  "faq": {
+    "hero": {
+      "title": "Frequently Asked Questions",
+      "description": "Common questions about keeping yourself safe online. Simple answers, no technical jargon."
+    },
+    "search": {
+      "placeholder": "Search questions...",
+      "noResults": "No questions found matching your search."
+    },
+    "categories": {
+      "all": "All",
+      "basicInfo": "Basic Info",
+      "understandingTrustScore": "Understanding Trust Score",
+      "safetyTips": "Safety Tips",
+      "technicalDetails": "Technical Details",
+      "gettingHelp": "Getting Help"
+    },
+    "questions": [
+      {
+        "id": "what-is-trust-finder",
+        "category": "Basic Info",
+        "question": "What is RakshaAI and how does it work?",
+        "answer": "RakshaAI provides free consumer checks for supported websites, UPI IDs, phone numbers and documents. It evaluates available risk signals and returns a Trust Score with context to support your decision. A secure user account is required, and no automated result is a guarantee of legitimacy."
+      },
+      {
+        "id": "is-it-really-free",
+        "category": "Basic Info",
+        "question": "Is it really completely free? No hidden charges?",
+        "answer": "Individuals can currently run supported checks without a paid subscription. Business verification and future enterprise products may be paid separately."
+      },
+      {
+        "id": "who-should-use",
+        "category": "Basic Info",
+        "question": "Who is this service for?",
+        "answer": "For everyone! Students doing online shopping, parents worried about their children's safety, senior citizens wanting to verify bank links, small business owners protecting their data - every Indian. You don't need any technical knowledge, just paste a link and get results."
+      },
+      {
+        "id": "what-is-trust-score",
+        "category": "Understanding Trust Score",
+        "question": "What is a Trust Score and how do I understand it?",
+        "answer": "Trust Score is a 0-100 rating. Above 70 = Generally Safe, 40-70 = Somewhat Suspicious (be careful), Below 40 = High Risk (avoid it). We don't just give you a number - we tell you WHY it got that score. Like 'domain is very new' or 'SSL certificate is invalid' - in simple language."
+      },
+      {
+        "id": "how-accurate",
+        "category": "Understanding Trust Score",
+        "question": "How accurate is the Trust Score?",
+        "answer": "Very accurate for detecting known threats, but no system is 100% perfect. We check multiple databases and use advanced AI, but always use common sense too. If something feels wrong, trust your instincts even if our score says it's okay."
+      },
+      {
+        "id": "common-scams",
+        "category": "Safety Tips",
+        "question": "What are the most common types of scams in India?",
+        "answer": "Fake shopping websites, phishing WhatsApp messages, fraudulent payment links, lottery scams, fake job offers, romance scams on dating apps, and investment fraud. Always verify before clicking or paying anything."
+      },
+      {
+        "id": "stay-safe-tips",
+        "category": "Safety Tips",
+        "question": "What are your top tips to stay safe online?",
+        "answer": "1) Always check suspicious links here first 2) Never share OTPs or passwords 3) Be skeptical of 'too good to be true' offers 4) Verify bank messages by calling your bank directly 5) Don't download apps from unknown sources 6) Use strong, unique passwords."
+      },
+      {
+        "id": "what-data-collected",
+        "category": "Technical Details",
+        "question": "What data do you collect about me?",
+        "answer": "We keep minimal data. Check queries are anonymised and not associated with your identity. We collect only what is necessary to operate the service and improve our detection models. We do not sell data or share it with advertisers. See our Privacy Policy for full details."
+      },
+      {
+        "id": "false-positive",
+        "category": "Getting Help",
+        "question": "What if a safe website shows as risky?",
+        "answer": "It can happen! If you think we made a mistake, please contact us with the link and we'll review it manually. Sometimes legitimate new websites get flagged because they're very new or have some technical issues."
+      },
+      {
+        "id": "report-scam",
+        "category": "Getting Help",
+        "question": "How do I report a scam or fraudulent website?",
+        "answer": "Use the 'Report a Scam' button on our website, or email us directly. The more details you provide, the better we can help protect others. Include the URL, what happened, and any screenshots if possible."
+      }
+    ],
+    "cta": {
+      "title": "Still Have Questions?",
+      "description": "Can't find what you're looking for? We're here to help. Don't hesitate to ask!",
+      "button": "Contact Us"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Get in Touch",
+      "description": "Got a question? Found a scam? Need help? We're here. No question is too small, no concern is too silly."
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "fields": {
+        "name": {
+          "label": "Name",
+          "placeholder": "Your full name"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "your.email@example.com"
+        },
+        "phone": {
+          "label": "Phone (Optional)",
+          "placeholder": "1234567890"
+        },
+        "subject": {
+          "label": "Subject",
+          "placeholder": "What's this about?"
+        },
+        "message": {
+          "label": "Message",
+          "placeholder": "Tell us more about your question or concern..."
+        }
+      },
+      "submit": "Send Message",
+      "submitting": "Sending..."
+    },
+    "info": {
+      "title": "Other Ways to Reach Us",
+      "response": {
+        "title": "Response Time",
+        "description": "We typically respond within 24 hours. For urgent matters, please email us directly."
+      },
+      "support": {
+        "title": "Support",
+        "description": "Need technical help or have questions about using our service? We're here to help."
+      },
+      "reports": {
+        "title": "Scam Reports",
+        "description": "Found a scam? Report it to us and help protect other Indians from online fraud."
+      }
+    },
+    "messages": {
+      "success": "Thank you! Your message has been sent successfully. We'll get back to you soon.",
+      "error": "Sorry, there was an error sending your message. Please try again."
+    }
+  }
+}
